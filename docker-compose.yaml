@@ -5,6 +5,7 @@ services:
     build: 
       context: ./node
     container_name: app
+    entrypoint: sh -c "npm install && node index.js"
     networks: 
       - node-network
     volumes: 
