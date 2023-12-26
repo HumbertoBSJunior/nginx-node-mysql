@@ -21,4 +21,4 @@ Para verificar a lista de nomes cadastrados, acessar:
 localhost:8080
 ```
 
-*(commit assinados habilitados.)
+*(commits assinados habilitados)
